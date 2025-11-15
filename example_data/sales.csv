@@ -1,0 +1,6 @@
+date,region,product,units,revenue
+2025-09-01,North,Widget A,10,1000
+2025-09-01,South,Widget B,5,450
+2025-09-02,North,Widget A,8,800
+2025-09-03,East,Widget C,2,180
+2025-09-04,West,Widget B,7,630
