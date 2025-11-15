@@ -1,4 +1,4 @@
-# Enterprise Smart Insights Agent (ESIA) - Minimal Demo
+# Enterprise Smart Insights Agent (ESIA)
 
 This repository is a **minimal, self-contained demo** of the Enterprise Smart Insights Agent (ESIA) for the Kaggle Capstone.
 It is intentionally lightweight so it can run without cloud deployment or paid LLM access. If you have Gemini/other LLM API access,
